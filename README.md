@@ -1,19 +1,25 @@
-AI Personal Chef Assistant (Phase 1)
-A Python-based command-line tool that generates meal plans based on dietary preferences and budget.
+# AI Personal Chef Assistant 🍳
 
-🚀 Features
-User input for diet and weekly budget.
+An automated meal-planning system designed to optimize grocery budgets and dietary preferences. 
 
-Logic-based meal suggestion system.
+## 📌 Project Overview
+This project is being developed in phases to demonstrate proficiency in Python, Version Control (Git), and eventually, Agentic AI systems. 
 
-Integrated with Git for version control.
+### Phase 1: Core Logic (Current)
+* Developed a command-line interface (CLI) for user input handling.
+* Implemented conditional logic to filter meal plans based on dietary restrictions (Veg/Non-Veg).
+* Established a professional Git workflow and project structure using Visual Studio 2022.
 
-🛠️ Tech Stack
-Language: Python 3.x
+## 🛠️ Tech Stack
+* **Language:** Python
+* **Environment:** Visual Studio 2022
+* **Version Control:** Git / GitHub
 
-Tools: Visual Studio 2022, Git, GitHub
+## 🚀 How to Run
+1. Clone the repository: `git clone https://github.com/PrardhanaNethula/AI-Personal-Chef-Assistant.git`
+2. Run the application: `python app.py`
 
-📈 Future Roadmap
-Integrate Claude/OpenAI API for dynamic meal generation.
-
-Add cost analysis and CSV exports for budget tracking.
+## 📈 Roadmap
+- **Phase 2:** Integrate Anthropic/Claude API for dynamic, AI-generated meal plans.
+- **Phase 3:** Implement CSV logging for cost analysis and data tracking.
+- **Phase 4:** Deploy as a multi-agent system using LangGraph.
